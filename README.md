@@ -10,7 +10,7 @@ And i say: "Keep calm my little grasshopper, here you put your playlist link and
 
 2. After we use the submit area the JavaScript clean the area.
 
-3. Now we need to think "If i just put the spotify playlist to show it works ?" the answer is no.
+3. Now we need to think "If i just put the spotify playlist to show it works ? "The answer is no.
 Have a difference between the Iframe and the Link from spotify and i fond just compare this links:
   .Playlist Link from Iframe: https://open.spotify.com/embed/playlist/6whxqvrunw3dy7I5fMKt2R
   .Playlist from user link: https://open.spotify.com/playlist/6whxqvrunw3dy7I5fMKt2R?si=IFxdHzi_SWOf98IRRouWSA
