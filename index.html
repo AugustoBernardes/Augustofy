@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Augustofy</title>
+    <link rel="icon" href="./assets/logoSite.svg">
+    <link rel="stylesheet" href="./style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img class="logo" src="./assets/logo.png">
+        <h1 class="logo-text">Augustofy</h1>
+    </header>
+    <main>
+        <div class="text-container">
+            <h2>Put the playlist link here:</h>
+        </div>
+        <input class="link" type="text" placeholder="Playlist Link" id="playlistLink">
+        <button class="submit-button" onclick="submitPlaylist()">Submit</button>
+        <div class="credit">
+            <p>Developed by <a class="gitHub" href="https://github.com/AugustoBernardes">Augusto</a></p>
+        </div>
+    </main>
+    <div class="display-playlist" id="display">   
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
