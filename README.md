@@ -12,8 +12,8 @@ And i say: "Keep calm my little grasshopper, here you put your playlist link and
 
 3. Now we need to think "If i just put the spotify playlist to show it works ? "The answer is no."
 Have a difference between the Iframe and the Link from spotify and i fond just compare this links:
-  .Playlist Link from Iframe: https://open.spotify.com/embed/playlist/6whxqvrunw3dy7I5fMKt2R
-  .Playlist from user link: https://open.spotify.com/playlist/6whxqvrunw3dy7I5fMKt2R?si=IFxdHzi_SWOf98IRRouWSA
+  1- Playlist Link from Iframe: https://open.spotify.com/embed/playlist/6whxqvrunw3dy7I5fMKt2R
+  2- Playlist from user link: https://open.spotify.com/playlist/6whxqvrunw3dy7I5fMKt2R?si=IFxdHzi_SWOf98IRRouWSA
 
 4. Yes i know have this /embed/ so what can we make ?
 Remember we checked if its a Spotify playlist , we can use it to creat a "var" to concatenate with 
