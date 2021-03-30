@@ -1,6 +1,6 @@
 # About Augustofy 📑
 
-This is my little project to traine about JavaScript it isn't the Spotify copy, i think you are asking : "So what is this?"
+This is my little project to train about JavaScript it isn't the Spotify copy, i think you are asking: "So what is this?"
 And i say: "Keep calm my little grasshopper, here you put your playlist link and will show to you on the page , and the best you can listen it !"
 
 # Data 💾
@@ -30,7 +30,7 @@ And the playlist ID (6whxqvrunw3dy7I5fMKt2R?si=IFxdHzi_SWOf98IRRouWSA)
 
 # Preview Playlist 🎵
 
-![Image](design/preview.png)
+![Image](design/previewPlaylist.png)
 
 # Functional Example ⚙️
 
